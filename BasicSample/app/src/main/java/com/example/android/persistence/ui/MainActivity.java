@@ -14,6 +14,12 @@
  * limitations under the License.
  */
 
+/**
+ * for more:
+ * https://codelabs.developers.google.com/codelabs/android-lifecycles/index.html?index=..%2F..%2Findex#0
+ *
+ *
+ */
 package com.example.android.persistence.ui;
 
 import android.os.Bundle;
